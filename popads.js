@@ -1,4 +1,3 @@
-<!-- PopAds.net Popunder Code for supertudog.com | 2019-09-07,369657,0,0 -->
 <script type="text/javascript" data-cfasync="false">
 /*<![CDATA[/* */
 /* Privet darkv. Each domain is 2h fox dead */
