@@ -10,7 +10,7 @@
     "popup_force": true,
     "new_tab": false,
     "frequency_period": 5,
-    "frequency_count": 1,
+    "frequency_count": 2,
     "trigger_method": 1,
     "trigger_class": ""
 };
