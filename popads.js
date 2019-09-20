@@ -6,7 +6,7 @@
     "ads_host": "a.exosrv.com",
     "syndication_host": "syndication.exosrv.com",
     "idzone": "3527503",
-    "popup_fallback": false,
+    "popup_fallback": true,
     "popup_force": false,
     "new_tab": false,
     "frequency_period": 5,
